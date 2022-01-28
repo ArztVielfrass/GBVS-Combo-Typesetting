@@ -6,7 +6,7 @@ A Lua module that generates a typeset combo in Mathematica. Includes a module an
 ## How to use
 
 Require the module, "/GBVS Mathematica Generator.lua"  
-Module includes variables for moves shared amongst all characters starting with x  
+Module includes variables for moves shared amongst all characters prefixed with x  
 
 Reference for keywords  
 C   = Close  
