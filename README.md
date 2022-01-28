@@ -1,6 +1,8 @@
 # GBVS-Combo-Typesetting
 A Lua module that generates a typeset combo in Mathematica. Includes a module and combos  
 
+>> Finished Example
+>> print(PRE .. xAMMM .. NEX .. x236L .. SLH .. x236H .. TER)
 ## How to use
 
 Require the module, "/GBVS Mathematica Generator.lua"  
@@ -17,7 +19,7 @@ LND = Land from Airbourne
 MDH = Microdash  
 
 +   = State And State  
->   = State Then State  
+\>   = State Then State  
 
 Example:  
 x214H -> Quarter Circle Back Heavy  
@@ -40,4 +42,6 @@ SLH = Choose one move to perform up to next link
 
 ### Other:
 DSH = Dashing  
-CH  = Counterhit  
+CH  = Counterhit   
+
+
