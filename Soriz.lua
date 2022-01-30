@@ -1,4 +1,4 @@
-require("GBVS_Shared_Inputs")
+require("GBVSModule")
 
 -- Specials
 -- Unique Action: Muscle Fury
